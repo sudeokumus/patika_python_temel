@@ -1,2 +1,2 @@
-# patika_python_temel
+# Python Temel
 Patika.dev'deki Python Temel dersi projesi
